@@ -1,0 +1,95 @@
+h1{
+  font-family: 'Poppins', sans;
+  color:#f7a440;
+  font-weight: 600;
+  font-size: 60px;
+  text-align:center;
+}
+
+p{
+  font-family: 'Poppins', sans;
+  color:#150e56;
+  font-weight:200;
+  font-size: 20px;
+  text-align:center;
+  padding-top:-10px;
+}
+
+caption{
+    color:#f7a440;
+}
+
+
+.form1{
+  font-family: 'Poppins', sans;
+  color:#f7a440;
+  margin:auto;
+  text-align: center;
+  border:outset;
+  width:500px;
+  height:180px;
+}
+
+
+.form2{
+  font-family: 'Poppins', sans;
+  font-weight:200;
+  font-size: 20px;
+  color:#f7a440;
+  margin:auto;
+  text-align: center;
+  border:outset;
+  width:600px;
+  height:600px;
+}
+
+.hackers{
+  float:left;
+  text-align: left;
+  margin-top:50px;
+}
+
+.i1{
+  width:100px;
+  height:100px;
+  margin-top:5px;
+  float:left;
+  clear:left;
+
+}
+
+
+.i2{
+  margin-top: 50px;
+  margin-left: 200px;
+  float:left;
+  clear:right;
+
+}
+
+.ab{
+  border:outset;
+  width:100px;
+  height:100px;
+  margin-left:100px;
+  float:left;
+  font-family: 'Poppins', sans;
+  color:#150e56;
+  font-weight:200;
+  font-size: 10px;
+  line-height: 0.5;
+}
+
+.ab:hover
+{
+    color:#f7a440;
+}
+
+.t1{
+    border:outset;
+    margin:auto;
+    font-family: 'Poppins', sans;
+    color:#150e56;
+    font-weight:200;
+    font-size: 10px;
+  }
